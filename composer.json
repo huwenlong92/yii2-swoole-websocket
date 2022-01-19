@@ -1,5 +1,5 @@
 {
-  "name": "immusen/yii2-swoole-websocket",
+  "name": "larkit/yii2-swoole-websocket",
   "description": "Websocket server for Yii2 base on swoole 4, Support JSONRPC, Resolve 'method' as a route reflect into controller/action, And support http or redis pub/sub to trigger async task from your web application.",
   "type": "yii2-extension",
   "keywords": [
